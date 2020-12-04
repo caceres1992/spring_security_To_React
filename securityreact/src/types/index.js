@@ -1,0 +1,5 @@
+export const FINDALLUSUARIOS = 'FINDALLUSUARIOS'
+export const ADDUSUARIO = 'ADDUSUARIO'
+export const LOGIN = 'LOGIN'
+export const TOKEN = 'TOKEN'
+export const CERRARSESSION = 'CERRARSESSION'
